@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Unity ,Game Programming, Game Designing**
 
-- 📫 How to reach me **ricochetthestoryteller2001@gmail.com**
+- 📫 How to reach me [**My Gmail**](ricochetthestoryteller2001@gmail.com)
 
 - 📄 Check out my Resume [https://drive.google.com/file/d/1b2H6X1NMeM6xV-NsmY6eIFe2c0Aqmp4x/view?usp=sharing](https://drive.google.com/file/d/1b2H6X1NMeM6xV-NsmY6eIFe2c0Aqmp4x/view?usp=sharing)
 
