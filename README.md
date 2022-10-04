@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Gam Jams](https://github.com/suryanshsingh2001/GamJam)
 
-- 🤝 I’m looking for help with **Learning Industry 4.0 technologies**
+- 🤝 I’m looking for help with **Full Stack Development**
 
 - 👨‍💻 All of my completed projects are available at [https://suryanshsingh2001.itch.io/](https://suryanshsingh2001.itch.io/)
 
