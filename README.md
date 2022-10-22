@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suryansh Singh</h1>
 <h3 align="center">An Aspiring Indie Game Developer</h3>
 
-- 🔭 I’m currently working on [Gold-Rush](https://github.com/suryanshsingh2001/Gold-Rush)
+- 🔭 I’m currently working on [ZombaLand](https://github.com/suryanshsingh2001/ZombaLand)
 
 - 🌱 I’m currently learning **UE5, C++ Raylib**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me [**My Gmail**](ricochetthestoryteller2001@gmail.com)
 
-- 📄 Check out my Resume [https://drive.google.com/file/d/1b2H6X1NMeM6xV-NsmY6eIFe2c0Aqmp4x/view?usp=sharing](https://drive.google.com/file/d/1b2H6X1NMeM6xV-NsmY6eIFe2c0Aqmp4x/view?usp=sharing)
+- 📄 Check out my Resume [Link](https://drive.google.com/file/d/1b2H6X1NMeM6xV-NsmY6eIFe2c0Aqmp4x/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
