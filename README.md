@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Full Stack Development**
 
-- 👨‍💻 All of my completed projects are available at [My Portfolio](https://suryanshsingh2001.itch.io/)
+- 👨‍💻 All of my completed projects are available at [**My Portfolio**](https://suryanshsingh2001.github.io/Suryansh-Portfolio/)
 
 - 💬 Ask me about **Unity ,Game Programming, Game Designing**
 
