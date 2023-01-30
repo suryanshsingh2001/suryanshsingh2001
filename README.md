@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suryansh Singh</h1>
 <h3 align="center">An Aspiring Indie Game Developer</h3>
-![](https://github.com/suryanshsingh2001/suryanshsingh2001/blob/main/giphy.gif?raw=true)
+
 - 🔭 I’m currently working on [ZombaLand](https://github.com/suryanshsingh2001/ZombaLand)
 
 - 🌱 I’m currently learning **UE5, C++ Raylib**
