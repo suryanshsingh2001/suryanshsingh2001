@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my completed game projects are available at [**Game Developer Portfolio**](https://suryanshsingh2001.github.io/Suryansh-Portfolio/)
 
-- 👨‍💻 All of my UI/UX Designs are available at [**My UI/ UX Portfolio**](https://sites.google.com/u/0/d/18uH3Ij1J8EP07Itxc_fXxGySLOcrS7bh/p/1a79C05Cheggfwz8s_EwpQvMB4601cwk8/publishview)
+- 👨‍💻 All of my UI/UX Designs are available at [**My UI/ UX Portfolio**](https://sites.google.com/view/suryanshux-portfolio/home)
 
 - 💬 Ask me about **Unity ,Game Programming, Game Designing, UI/UX Design**
 
 - 📫 How to reach me [**My Gmail**](ricochetthestoryteller2001@gmail.com)
 
-- 📄 Check out my Resume [Link](https://drive.google.com/file/d/1uXQrC8REd1GJeMeTe7R7liD-UB0x6mxZ/view?usp=sharing)
+- 📄 Check out my Resume [**Link**](https://drive.google.com/file/d/1uXQrC8REd1GJeMeTe7R7liD-UB0x6mxZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
