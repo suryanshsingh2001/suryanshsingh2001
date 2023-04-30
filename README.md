@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Kryptonian](https://github.com/suryanshsingh2001/Kryptonian)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on [Gam Jams](https://github.com/suryanshsingh2001/GamJam)
 
