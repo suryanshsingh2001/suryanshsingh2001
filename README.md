@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suryansh Singh</h1>
-<h3 align="center">Game Developer, Web Developer, UI/UX Designer</h3>
+<h3 align="center">I'm a FullStack Developer, Game Developer and  UI/UX Designer</h3>
 
 - 🔭 I’m currently working on [Kryptonian](https://github.com/suryanshsingh2001/Kryptonian)
 
