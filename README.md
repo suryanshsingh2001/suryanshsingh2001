@@ -14,7 +14,7 @@
 
 </h3>
 
-- 🔭 I’m currently working on [Kryptonian](https://github.com/suryanshsingh2001/Kryptonian)
+- 🔭 I’m currently working on [SkillMastery](https://github.com/suryanshsingh2001/skillmastery)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
