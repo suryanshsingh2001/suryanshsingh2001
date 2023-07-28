@@ -18,11 +18,11 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on [Gam Jams](https://github.com/suryanshsingh2001/GamJam)
+- 👯 I’m looking to collaborate on [SkillMastery](https://github.com/suryanshsingh2001/skillmastery)
 
 - 🤝 I’m looking for help with **Full Stack Development**
 
-- 👨‍💻 All of my completed game projects are available at [**Game Developer Portfolio**](https://suryanshsingh2001.github.io/Suryansh-Portfolio/)
+- 👨‍💻 All of my completed game projects are available at [**Portfolio**](https://suryanshsingh2001.github.io/Suryansh-Portfolio/)
 
 - 👨‍💻 All of my UI/UX Designs are available at [**My UI/ UX Portfolio**](https://sites.google.com/view/suryanshux-portfolio/home)
 
