@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with **Full Stack Development**
 
-- 👨‍💻 All of my completed game projects are available at [**Portfolio**](https://suryanshsingh2001.github.io/Suryansh-Portfolio/)
+- 👨‍💻 All of my completed game projects are available at [**Portfolio**](https://suryansh-portfolio.onrender.com/)
 
 - 👨‍💻 All of my UI/UX Designs are available at [**My UI/ UX Portfolio**](https://sites.google.com/view/suryanshux-portfolio/home)
 
