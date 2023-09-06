@@ -14,7 +14,7 @@
 
 </h3>
 
-- 🔭 I’m currently working on [SkillMastery](https://github.com/suryanshsingh2001/skillmastery)
+- 🔭 I’m currently working on [Nike 2.0](https://github.com/suryanshsingh2001/Nike-2.0)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
