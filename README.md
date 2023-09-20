@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my UI/UX Designs are available at [**My UI/ UX Portfolio**](https://sites.google.com/view/suryanshux-portfolio/home)
 
-- 💬 Ask me about **Unity ,Game Programming, Game Designing, UI/UX Design**
+- 💬 Ask me about **Game Development(Unity), Full-Stack (MERN/MEAN) and UI/UX(Figma, Adobe XD)**
 
 - 📫 How to reach me [**My Gmail**](ricochetthestoryteller2001@gmail.com)
 
