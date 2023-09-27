@@ -14,7 +14,7 @@
 
 </h3>
 
-- 🔭 I’m currently working on [**Nike 2.0**](https://github.com/suryanshsingh2001/Nike-2.0)
+- 🔭 I’m currently working on [**MyLibrary**](https://github.com/suryanshsingh2001/MyLibrary)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with **Full Stack Development**
 
-- 👨‍💻 All of my completed game projects are available at [**Portfolio**](https://suryansh-portfolio.onrender.com/)
+- 👨‍💻 All of my completed projects are available at [**Portfolio**](https://suryansh-portfolio.onrender.com/)
 
 - 👨‍💻 All of my UI/UX Designs are available at [**My UI/ UX Portfolio**](https://sites.google.com/view/suryanshux-portfolio/home)
 
