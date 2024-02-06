@@ -14,7 +14,7 @@
 
 </h3>
 
-- 🔭 I’m currently working on [**MyLibrary**](https://github.com/suryanshsingh2001/MyLibrary)
+- 🔭 I’m currently working on [**EchelonScript**](https://github.com/suryanshsingh2001/echelon-script)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
