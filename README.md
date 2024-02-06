@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on [**SkillMastery**](https://github.com/suryanshsingh2001/skillmastery)
+- 👯 I’m looking to collaborate on [**MyLibrary**](https://github.com/suryanshsingh2001/MyLibrary)
 
 - 🤝 I’m looking for help with **Full Stack Development**
 
