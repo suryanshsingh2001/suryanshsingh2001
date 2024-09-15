@@ -20,13 +20,13 @@
 
 - 👯 I’m looking to collaborate on [**MyLibrary**](https://github.com/suryanshsingh2001/MyLibrary)
 
-- 🤝 I’m looking for help with **Full Stack Development**
+- 🤝 I’m looking for help with **Machine Learning, AI, RAG**
 
 - 👨‍💻 All of my completed projects are available at [**Portfolio**](https://suryansh-folio.vercel.app/)
 
 - 👨‍💻 All of my UI/UX Designs are available at [**My UI/ UX Portfolio**](https://sites.google.com/view/suryanshux-portfolio/home)
 
-- 💬 Ask me about **Game Development(Unity), Full-Stack (MERN/MEAN) and UI/UX(Figma, Adobe XD)**
+- 💬 Ask me about **Full Stack, Nextjs, AWS, GCP and Game Development**
 
 - 📫 How to reach me [**My Gmail**](ricochetthestoryteller2001@gmail.com)
 
