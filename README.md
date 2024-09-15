@@ -14,7 +14,7 @@
 
 </h3>
 
-- 🔭 I’m currently working on [**EchelonScript**](https://github.com/suryanshsingh2001/echelon-script)
+- 🔭 I’m currently working on [**Mockly**](https://www.mockly.site/)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
