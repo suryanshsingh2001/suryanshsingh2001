@@ -14,7 +14,7 @@
 
 </h3>
 
-- 🔭 I’m currently working on [**Mockly**](https://www.mockly.site/)
+- 🔭 I’m currently working on [**Mockly**](https://github.com/suryanshsingh2001/mockly)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
