@@ -3,7 +3,7 @@
 <h3 align="center">
     
 [![](https://visitcount.itsvg.in/api?id=suryanshsingh2001&icon=4&color=6)](https://visitcount.itsvg.in)
-[![LeetCode user suryanshsingh2001](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsuryanshsingh2001&logo=leetcode&logoColor=yellow)](https://leetcode.com/suryanshsingh2001/)
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=7C22F7&center=true&vCenter=true&width=435&lines=Game+Developer;Full-Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" /></a>
 </h3>
