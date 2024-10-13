@@ -14,6 +14,8 @@
 
 </h3>
 
+[![An image of @suryanshsingh2001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suryanshsingh2001)](https://holopin.io/@suryanshsingh2001)
+
 - 🔭 I’m currently working on [**Mockly**](https://github.com/suryanshsingh2001/mockly)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
