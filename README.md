@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on [**MyLibrary**](https://github.com/suryanshsingh2001/MyLibrary)
+- 👯 I’m looking to collaborate on [**DevMD**](https://github.com/suryanshsingh2001/devmd)
 
 - 🤝 I’m looking for help with **Machine Learning, AI, RAG**
 
