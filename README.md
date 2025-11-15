@@ -30,7 +30,7 @@
 
 - 📫 How to reach me [**My Gmail**](ricochetthestoryteller2001@gmail.com)
 
-- 📄 Check out my Resume [**Link**](https://drive.google.com/file/d/18NTWE1Sesr4kGmupOPvmHxB-06s_0AKR/view?usp=sharing)
+- 📄 Check out my Resume [**Link**](https://drive.google.com/file/d/1IDkv4vNWJWRuD_Ssd8MMNJx-iQTykOX3/view?usp=sharing)
 
 <br>
 
