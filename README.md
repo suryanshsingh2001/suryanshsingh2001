@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning, AI, RAG**
 
-- 👨‍💻 All of my completed projects are available at [**Portfolio**](https://www.surydev.site/)
+- 👨‍💻 All of my completed projects are available at [**Portfolio**](https://www.surydev.com/)
 
 - 👨‍💻 All of my UI/UX Designs are available at [**My UI/ UX Portfolio**](https://sites.google.com/view/suryanshux-portfolio/home)
 
